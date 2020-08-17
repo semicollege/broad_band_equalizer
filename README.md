@@ -12,7 +12,7 @@ report.pdf: 详细设计报告。
 # More
 NLMS part is not provided, it is running on ARM dule core, writing by C++.   
 You can get a video introduction of this project if you understand Chinese:     
-[项目展示](https://v.youku.com/v_show/id_XNTczODM1MzUy.html)      
+[项目最终展示](https://v.youku.com/v_show/id_XNTczODM1MzUy.html)      
 [2小时视频讲解](https://www.bilibili.com/video/BV1p54y1e7kX/)
       
 ---
