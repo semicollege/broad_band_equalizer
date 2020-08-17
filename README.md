@@ -4,7 +4,7 @@ This is the Xilinx competition project I have done with my friend.
 
 # Resources
 GAL.v: 初版GAL算法的verilog实现。        
-GAL_NEW.v:优化版GAL算法的verilog实现。
+GAL_NEW.v:优化版GAL算法的verilog实现。    
 report.pdf: 详细设计报告。
     
 
