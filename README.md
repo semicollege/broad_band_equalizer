@@ -12,8 +12,9 @@ report.pdf: the full report and technical detail of this project, if you can rea
 # More
 NLMS part is not provided, it is running on ARM dule core, writing by C++.   
 You can get a video introduction of this project if you understand Chinese:     
-[Video show of this project](https://v.youku.com/v_show/id_XNTczODM1MzUy.html)      
+[项目展示](https://v.youku.com/v_show/id_XNTczODM1MzUy.html)      
+[2小时视频讲解](https://www.bilibili.com/video/BV1p54y1e7kX/)
       
 
-Here is the GAL-NLMS algorithm:    
+GAL-NLMS算法图示:    
 ![](https://github.com/stephenkung/broad_band_equalizer/blob/master/GAL-NLMS.png)
