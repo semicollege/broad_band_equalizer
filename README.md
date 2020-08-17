@@ -4,7 +4,7 @@ This is the Xilinx competition project I have done with my friend.
 
 # Resources
 GAL.v: a naive version of GAL algorithm implementation on FPGA. Language is Verilog.         
-GAL_NEW.v: a optimized version of GAL algorithm implemantation.    
+GAL_NEW.v: an optimized version of GAL algorithm implemantation.    
 report.pdf: the full report and technical detail of this project, if you can read Chinese.    
     
 
